@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/peaplayground/static/css/main.478bca9f.css",
+    "main.js": "/peaplayground/static/js/main.513c38cc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/peaplayground/static/js/787.28cb0dcd.chunk.js",
+    "static/media/เด็กชิงช้าlogo.png": "/peaplayground/static/media/เด็กชิงช้าlogo.b68f2007adddb6dc4d30.png",
+    "static/media/1933524.jpg": "/peaplayground/static/media/1933524.161b6b46c78b57bead87.jpg",
+    "static/media/peaplayground.png": "/peaplayground/static/media/peaplayground.e39d894e3c700ad07cf3.png",
+    "index.html": "/peaplayground/index.html",
+    "main.478bca9f.css.map": "/peaplayground/static/css/main.478bca9f.css.map",
+    "main.513c38cc.js.map": "/peaplayground/static/js/main.513c38cc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/peaplayground/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478bca9f.css",
+    "static/js/main.513c38cc.js"
+  ]
+}
