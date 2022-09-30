@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "//non50031234.github.io/peaplayground/static/css/main.f5e5d712.css",
-    "main.js": "//non50031234.github.io/peaplayground/static/js/main.aa8eb910.js",
-    "static/js/787.28cb0dcd.chunk.js": "//non50031234.github.io/peaplayground/static/js/787.28cb0dcd.chunk.js",
-    "static/media/เด็กชิงช้าlogo.png": "//non50031234.github.io/peaplayground/static/media/เด็กชิงช้าlogo.b68f2007adddb6dc4d30.png",
-    "static/media/1933524.jpg": "//non50031234.github.io/peaplayground/static/media/1933524.161b6b46c78b57bead87.jpg",
-    "static/media/peaplayground.png": "//non50031234.github.io/peaplayground/static/media/peaplayground.e39d894e3c700ad07cf3.png",
-    "index.html": "//non50031234.github.io/peaplayground/index.html",
-    "main.f5e5d712.css.map": "//non50031234.github.io/peaplayground/static/css/main.f5e5d712.css.map",
-    "main.aa8eb910.js.map": "//non50031234.github.io/peaplayground/static/js/main.aa8eb910.js.map",
-    "787.28cb0dcd.chunk.js.map": "//non50031234.github.io/peaplayground/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/peaplayground/static/css/main.478bca9f.css",
+    "main.js": "/peaplayground/static/js/main.e8487328.js",
+    "static/js/787.28cb0dcd.chunk.js": "/peaplayground/static/js/787.28cb0dcd.chunk.js",
+    "static/media/เด็กชิงช้าlogo.png": "/peaplayground/static/media/เด็กชิงช้าlogo.b68f2007adddb6dc4d30.png",
+    "static/media/1933524.jpg": "/peaplayground/static/media/1933524.161b6b46c78b57bead87.jpg",
+    "static/media/peaplayground.png": "/peaplayground/static/media/peaplayground.e39d894e3c700ad07cf3.png",
+    "index.html": "/peaplayground/index.html",
+    "main.478bca9f.css.map": "/peaplayground/static/css/main.478bca9f.css.map",
+    "main.e8487328.js.map": "/peaplayground/static/js/main.e8487328.js.map",
+    "787.28cb0dcd.chunk.js.map": "/peaplayground/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5e5d712.css",
-    "static/js/main.aa8eb910.js"
+    "static/css/main.478bca9f.css",
+    "static/js/main.e8487328.js"
   ]
 }
